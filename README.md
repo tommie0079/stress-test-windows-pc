@@ -1,7 +1,7 @@
 
 <img width="1258" height="338" alt="stress-test" src="https://github.com/user-attachments/assets/60895024-6d04-4be4-aa2b-4895318b5fef" />
 
-quick note, takes time to stop the cpu test
+## quick note, takes time to stop the cpu and network test
 ```
 function Start-StressMenu {
     # Set this window to High Priority
