@@ -1,3 +1,4 @@
+```
 function Start-StressMenu {
     Clear-Host
     Write-Host "--- Windows Hardware Stress Tool v2 ---" -ForegroundColor Cyan
@@ -70,3 +71,4 @@ function Stop-AllStress {
 }
 
 Start-StressMenu
+```
