@@ -1,4 +1,5 @@
-<img width="306" height="109" alt="stress-test" src="https://github.com/user-attachments/assets/01216933-9ee3-4104-87d2-a3d03a3df04a" />
+
+<img width="1258" height="338" alt="stress-test" src="https://github.com/user-attachments/assets/60895024-6d04-4be4-aa2b-4895318b5fef" />
 
 ```
 function Start-StressMenu {
